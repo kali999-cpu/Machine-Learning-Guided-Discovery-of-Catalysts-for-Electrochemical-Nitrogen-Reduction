@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "data-analysis": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "90b275a94a958572c096858fb9e877f9257d26f2888e6714fc99901797839900"
+    }
+  }
+}
